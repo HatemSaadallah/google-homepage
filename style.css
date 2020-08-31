@@ -10,7 +10,6 @@ html, body {
   position: relative;
 }
 
-/* Central content */
 
 #content {
   padding-top: 170px;
@@ -71,7 +70,6 @@ input[type="submit"]:hover {
   color: #222;
 }
 
-/* Header */
 
 ul {
   display: flex;
@@ -150,7 +148,6 @@ a:hover {
   color: #FFF;
 }
 
-/* Footer */
 
 #footer {
   background-color: #F2F2F2;
